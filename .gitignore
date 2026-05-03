@@ -1,0 +1,9 @@
+.env
+.cache
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data files (too large for git — download from Kaggle)
+data/spotify_tracks.csv
+data/*.parquet
